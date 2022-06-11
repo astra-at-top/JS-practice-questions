@@ -1,6 +1,6 @@
 # JS-practice-questions
 
-## There are two FOlders named ==> Question && Answer
+=> There are two FOlders named ==> Question && Answer
 
 In question there can be one or more js file where you will qet question and project 
 
